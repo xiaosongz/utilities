@@ -1,0 +1,7 @@
+Thu Aug  2 12:54:58 EDT 2018 175 Host_Writes_MiB         0x0022   099   099   000    Old_age   Always       -       10622413
+Thu Aug  2 12:55:29 EDT 2018 175 Host_Writes_MiB         0x0022   099   099   000    Old_age   Always       -       10622418
+Thu Aug  2 15:38:35 EDT 2018 175 Host_Writes_MiB         0x0022   099   099   000    Old_age   Always       -       10624787
+Fri Aug  3 10:01:39 EDT 2018 175 Host_Writes_MiB         0x0022   099   099   000    Old_age   Always       -       10635641
+Fri Aug  3 10:11:36 EDT 2018 175 Host_Writes_MiB         0x0022   099   099   000    Old_age   Always       -       10635769
+Fri Aug  3 10:22:25 EDT 2018 175 Host_Writes_MiB         0x0022   099   099   000    Old_age   Always       -       10635904
+Fri Aug  3 10:26:32 EDT 2018 175 Host_Writes_MiB         0x0022   099   099   000    Old_age   Always       -       10635928
